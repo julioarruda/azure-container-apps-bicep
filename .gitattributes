@@ -2,6 +2,7 @@
 *.cs linguist-detectable=true 
 *.csproj linguist-detectable=true 
 *.sln linguist-detectable=true 
+*.js linguist-detectable=false
 
 *.cs linguist-language=csharp
 *.csproj linguist-language=csharp
